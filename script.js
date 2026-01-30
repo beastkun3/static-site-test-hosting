@@ -86,10 +86,9 @@ function showDatePickerModal() {
 
     <select id="dateSelect" style="width:100%; padding:10px; margin-top:10px; border-radius:8px;">
       <option value="">-- choose one --</option>
-      <option value="date1">Feb 10</option>
-      <option value="date2">Feb 14</option>
-      <option value="date3">Feb 17</option>
-      <option value="date4">Feb 20</option>
+      <option value="date1">Feb 16</option>
+      <option value="date2">Feb 23</option>
+      <option value="date3">Mar 2</option>
       <option value="idk">idk</option>
     </select>
 
